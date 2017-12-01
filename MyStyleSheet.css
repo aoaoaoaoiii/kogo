@@ -52,17 +52,25 @@ body {
 .introduction{
   margin-left: 50px;
   margin-right: 50px;
+  background-image: url("image/bg_coments.png");
+  background-size: 100% 100%;
 }
 
 .introduction h1{
   color: #003300;
   font-size: 20px;
+  margin-top: 10px;
+  margin-left: 14px;
+  margin-right: 14px;
+
 }
 
 .introduction h2{
   color: #334d66;
   font-size: 18px;
   text-align: left;
+  margin-left: 16px;
+  margin-right: 8px;
 }
 
 #button{
